@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1078512636804",
+    "project_id": "facts-ea688",
+    "storage_bucket": "facts-ea688.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078512636804:android:da98ca07af7a9495d8c3d1",
+        "android_client_info": {
+          "package_name": "com.nithin9.aialco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvt6KPv-f8PGrE92sSjjJxxEvtgeydeyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
